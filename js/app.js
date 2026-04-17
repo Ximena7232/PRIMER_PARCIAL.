@@ -15,12 +15,12 @@ const proyectos = [
         nombre: "P3_IOS_EJEMPLOAPP",
         descripcion: "Aplicación ejemplo para iOS",
         enlace: "https://ximena7232.github.io/P3_IOS_EJEMPLOAPP/",
-        icono: "🍎"
+        icono: "🦋"
     },
     {
-        nombre: "APP iOS",
-        descripcion: "Aplicación iOS desarrollada",
-        enlace: "https://maycol234.github.io/APP_IOS/",
+        nombre: "practica_html5",
+        descripcion: "practicas",
+        enlace: "https://ximena7232.github.io/practica_html5/",
         icono: "📲"
     },
     {
